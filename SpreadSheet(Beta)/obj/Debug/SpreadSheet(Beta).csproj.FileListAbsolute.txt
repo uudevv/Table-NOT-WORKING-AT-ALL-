@@ -1,0 +1,11 @@
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\bin\Debug\SpreadSheet(Beta).exe.config
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\bin\Debug\SpreadSheet(Beta).exe
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\bin\Debug\SpreadSheet(Beta).pdb
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet(Beta).csproj.AssemblyReference.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet(Beta).csproj.SuggestedBindingRedirects.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet_Beta_.CloneTable.resources
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet_Beta_.Properties.Resources.resources
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet(Beta).csproj.GenerateResource.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet(Beta).csproj.CoreCompileInputs.cache
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet(Beta).exe
+C:\Users\Azmom\OneDrive\Рабочий стол\spreadsheet\SpreadSheet(Beta)\obj\Debug\SpreadSheet(Beta).pdb
